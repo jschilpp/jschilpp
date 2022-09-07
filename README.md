@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-https://github-readme-streak-stats.herokuapp.com/?user=jschilpp
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 <!--
 **jschilpp/jschilpp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
